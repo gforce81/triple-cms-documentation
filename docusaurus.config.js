@@ -90,7 +90,7 @@ const config = {
             position: "left",
             label: "Documentation",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "FAQ", position: "left" },
           {
             href: "https://www.tripleup.com",
             label: "Triple",

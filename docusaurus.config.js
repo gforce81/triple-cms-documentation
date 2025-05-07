@@ -116,7 +116,7 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-      },
+      }
     }),
   plugins: [
     [
@@ -127,8 +127,9 @@ const config = {
         min: 320, // min resized image's size. if original is lower, use that size.
         steps: 4, // the max number of images generated between min and max (inclusive)
         disableInDev: false,
-      },
+      }
     ],
+    "docusaurus-lunr-search",
   ],
 };
 

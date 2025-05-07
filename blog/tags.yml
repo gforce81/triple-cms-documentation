@@ -17,3 +17,13 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+deals:
+  label: Deals
+  permalink: /docs/Key%20UX%20Components/deals_sections
+  description: Deals configuration tag
+
+banners:
+  label: Banners
+  permalink: /docs/Key%20UX%20Components/banners
+  description: Banners configuration tag

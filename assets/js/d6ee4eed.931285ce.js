@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktriple_cms_documentation=self.webpackChunktriple_cms_documentation||[]).push([[9997],{5552:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/triple-cms-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

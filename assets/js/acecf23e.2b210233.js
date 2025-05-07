@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktriple_cms_documentation=self.webpackChunktriple_cms_documentation||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/triple-cms-documentation/blog","blogTitle":"Blog","authorsListPath":"/triple-cms-documentation/blog/authors"}')}}]);

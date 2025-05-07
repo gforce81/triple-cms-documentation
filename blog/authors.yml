@@ -1,23 +1,11 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
+gauthierrobe:
+  name: Gauthier Robe
+  title: Head of Product at Triple
+  url: https://github.com/gforce81
+  image_url: https://avatars.githubusercontent.com/u/11968355?v=4
+  # page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    # permalink: '/all-sebastien-lorber-articles'
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    linkedin: gauthierrobe
+    github: grobe81
